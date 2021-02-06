@@ -8,4 +8,6 @@ Wxample Datascience Portfolio
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
 
+![](https://github.com/rajbansi/GithubForProject/blob/main/images/download.png)
+
 
